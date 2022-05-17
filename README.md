@@ -6,6 +6,3 @@ The project involves loading and cleaning a json file that contains Trump's twee
 For the sentiment analysis aspect of the project, the projects uses the NLTK package to report the top 20 most "negative" and "positive words. One can also find a graph that plots the sentiment score over time. 
 
 Lastly, daily S&P 500 closing prices are plotted together with the daily sentiment scores of Trump's tweets to help visually identify potential correlation. 
-
-## Directory
-The iPython Notebook file "Yue_Yang_HW1.ipynb" includes all the code used for this project. 
